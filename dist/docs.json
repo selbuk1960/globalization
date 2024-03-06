@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "GlobalizationPlugin",
+    "slug": "globalizationplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "getDateFormat",
+        "signature": "() => Promise<{ value: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ value: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getdateformat"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
